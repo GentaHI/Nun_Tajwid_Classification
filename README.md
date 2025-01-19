@@ -9,5 +9,6 @@ matplotlib == 3.2.*
 numpy == 2.*.*
 seaborn = 0.15.*
 sklearn == 2.2.*
-rubberband-cli == 2.0.0-2
 pyrubberband == 0.4.0
+rubberband-cli == 2.0.0-2
+soundfile >= 0.12.1
