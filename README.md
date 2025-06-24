@@ -3,7 +3,7 @@ Klasifikasi audio hukum tawid nun sukun atau tanwin dengan struktur deep learnin
 
 ## Requirement di system-level
 
-rubberband-cli == 2.0.0-2 (still in this version up until June 2025)
+rubberband-cli == 2.0.0-2
 
 Cara Instal pada debian/ubuntu OS:
 ```
